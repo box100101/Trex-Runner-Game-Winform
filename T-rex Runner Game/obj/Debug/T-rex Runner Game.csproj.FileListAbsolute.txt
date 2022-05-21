@@ -1,0 +1,54 @@
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\T-rex Runner Game.exe.config
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\T-rex Runner Game.exe
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\T-rex Runner Game.pdb
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T-rex Runner Game.csproj.AssemblyReference.cache
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T-rex Runner Game.csproj.SuggestedBindingRedirects.cache
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T_rex_Runner_Game.Form1.resources
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T_rex_Runner_Game.Properties.Resources.resources
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T-rex Runner Game.csproj.GenerateResource.cache
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T-rex Runner Game.exe.licenses
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T-rex Runner Game.csproj.CoreCompileInputs.cache
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T-rex Runner Game.csproj.CopyComplete
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T-rex Runner Game.exe
+D:\Ky2-nam3\Windows programming\App\T-rex Runner Game\T-rex Runner Game\obj\Debug\T-rex Runner Game.pdb
